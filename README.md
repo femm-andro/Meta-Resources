@@ -1,4 +1,4 @@
-# Meta-Resources 
+# Wynona's Meta-Resources 
 *Current Version **[000]***
 
 ## Introduction:
