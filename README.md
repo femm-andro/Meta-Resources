@@ -2,8 +2,10 @@
 *Current Version **[000]***
 
 ## Introduction:
+This is a resource list of resource lists that I have made :)
 
-placeholder text
+## About Me:
+[Here's where you can find more info about me!](https://github.com/femm-andro/femm-andro/blob/master/README.md)
 
 ## Section Select
 
@@ -17,5 +19,3 @@ If you want to support my transition and my continued work on this repository he
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P220ZWX)
 [![paypal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/34_Grey_PayPal_Pill_Button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EZXKMVF6LSXSQ&item_name=Support+Wynona&currency_code=USD&source=url)
  
-## About Me:
-[Here's where you can find more info about me!](https://github.com/femm-andro/femm-andro/blob/master/README.md)
