@@ -2,7 +2,7 @@
 *Current Version **[000]***
 
 ## Introduction:
-This is a resource list of resource lists that I have made :)
+This is a list of resource that I made :)
 
 ## About Me:
 [Here's where you can find more info about me!](https://github.com/femm-andro/femm-andro/blob/master/README.md)
