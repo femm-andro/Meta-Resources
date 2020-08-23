@@ -1,16 +1,15 @@
 # Wynona's Meta-Resources 
-*Current Version **[001]***
 
 ## Introduction:
-This is a list of resource that I made :)
+This is a list of resource that I have compiled :)
 
 ## About Me:
 [Here's where you can find more info about me!](https://github.com/femm-andro/femm-andro/blob/master/README.md)
 
 ## Section Select
 
-* [Trans and Non-Binary Resources](https://github.com/femm-andro/Trans-and-Non-Binary-Resources)
-* [Leftist Resources](https://github.com/femm-andro/Leftist-Resources)
+* [Trans and Non-Binary Resources](https://github.com/femm-andro/Trans-and-Non-Binary-Resources) - ***Currently privated and under construction***
+* [Leftist Resources](https://github.com/femm-andro/Leftist-Resources) - ***Currently privated and under construction***
 
 ### Support Me:
   
