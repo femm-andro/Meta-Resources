@@ -10,6 +10,7 @@ This is a list of resource that I have compiled :)
 
 * [Trans and Non-Binary Resources](https://github.com/femm-andro/Trans-and-Non-Binary-Resources) - ***Currently privated and under construction***
 * [Leftist Resources](https://github.com/femm-andro/Leftist-Resources) - ***Currently privated and under construction***
+* [Virtual Reality Resoures](https://github.com/femm-andro/VR-Resources) - ***Currently privated and under construction***
 
 ### Support Me:
   
